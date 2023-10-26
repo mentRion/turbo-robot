@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Check Request Scripts", "Check Request Scripts\Check Request Scripts.ssmssqlproj", "{0EE7533A-76A1-4C7D-9BD8-4CC12137677C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE7533A-76A1-4C7D-9BD8-4CC12137677C}.Default|Default.ActiveCfg = Default
+		{F39C6988-1C58-46E9-ABD8-66891D8F0D49}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81480001-1DA0-4E38-B226-85EADA0A2EAC}
+	EndGlobalSection
+EndGlobal
